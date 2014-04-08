@@ -1,0 +1,29 @@
+{
+  "name": "movable-js",
+  "version": "0.0.1",
+  "description": "Node.js client for Movable API",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.34.0",
+    "async": "^0.6.2",
+    "q": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logicware/movable-js.git"
+  },
+  "keywords": [
+    "movable",
+    "node.js"
+  ],
+  "author": "Matloob ul Hasan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logicware/movable-js/issues"
+  },
+  "homepage": "https://github.com/logicware/movable-js"
+}
