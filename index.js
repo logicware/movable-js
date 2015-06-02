@@ -8,8 +8,8 @@ var request = require('request'),
     async   = require('async'),
     q       = require('q');
 
-var authURL  = "https://portal.movable.com/oauth/authorize";
-var tokenURL = "https://portal.movable.com/oauth/token";
+var authURL  = "https://dashboard.movable.com/oauth/authorize";
+var tokenURL = "https://dashboard.movable.com/oauth/token";
 var apiURL   = "https://api.movable.com/v2";
 
 var clientID,
